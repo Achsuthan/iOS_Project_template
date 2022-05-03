@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 import Coordinator
 
-class ArticleDetailCoordinator: BaseCoordinator {
+class ___FILEBASENAMEASIDENTIFIER___: BaseCoordinator {
     
     init() {}
     
