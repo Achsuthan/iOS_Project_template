@@ -22,7 +22,7 @@
 			<key>Type</key>
 			<string>text</string>
 			<key>Default</key>
-			<string>Home</string>
+			<string>Module Name</string>
 		</dict>
 	</array>
 </dict>
