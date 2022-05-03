@@ -19,7 +19,7 @@ cloneRepos() {
 
 cloneRepo() {
     if [ -d "${DIR}/$1.xctemplate" ]; then
-        echo "🟤 Template available updating new one"
+        echo "🟤 $1 template available updating new one"
         rm -rf "${DIR}/$1.xctemplate"
     fi
 
