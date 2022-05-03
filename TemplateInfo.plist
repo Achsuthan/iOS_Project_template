@@ -12,13 +12,13 @@
 	<array>
 		<dict>
 			<key>Identifier</key>
-			<string>Scene Only Template</string>
+			<string>productName</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
-			<string>Scene Only</string>
+			<string>Module Name</string>
 			<key>Description</key>
-			<string>This will create storyborad, Viewcontroller and Constant files</string>
+			<string>The name of the StoryBoard, Viewcontroller, Constantfile name</string>
 			<key>Type</key>
 			<string>text</string>
 			<key>Default</key>
