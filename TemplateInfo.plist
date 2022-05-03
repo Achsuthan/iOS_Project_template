@@ -12,17 +12,17 @@
 	<array>
 		<dict>
 			<key>Identifier</key>
-			<string>productName</string>
+			<string>Scene Only Template</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
-			<string>Module Name</string>
+			<string>Scene Only</string>
 			<key>Description</key>
-			<string>The name of the Model, View and ViewModel to create</string>
+			<string>This will create storyborad, Viewcontroller and Constant files</string>
 			<key>Type</key>
 			<string>text</string>
 			<key>Default</key>
-			<string>Module1</string>
+			<string>Home</string>
 		</dict>
 	</array>
 </dict>
