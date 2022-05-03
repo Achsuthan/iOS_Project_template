@@ -13,7 +13,7 @@ cloneRepos() {
         done
     else 
         echo "🟣 Cloning main template"
-        cloneRepo "main"
+        cloneRepo "SceneWithCoordinator"
     fi
 } 
 
