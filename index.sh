@@ -18,12 +18,12 @@ cloneRepos() {
 } 
 
 cloneRepo() {
-    if [ -d "${DIR}/$1" ]; then
+    if [ -d "${DIR}/$1.xctemplate" ]; then
         echo "🟤 Template available updating new one"
-        rm -rf "${DIR}/$1"
+        rm -rf "${DIR}/$1.xctemplate"
     fi
 
-    git clone -b "$1" "$GITREPO" "${DIR}/$1" 
+    git clone -b "$1" "$GITREPO" "${DIR}/$1.xctemplate" 
 }
 
 templates=("$@")
