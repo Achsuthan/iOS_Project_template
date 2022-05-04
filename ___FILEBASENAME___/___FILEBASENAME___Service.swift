@@ -1,8 +1,8 @@
+//  ___FILENAME___
+//  ___PACKAGENAME___
 //
-//  ___FILEBASENAMEASIDENTIFIER___.swift
-//
-//  Created by CustomTemplates.
-//  Copyright © 2022 SPH. All rights reserved.
+//  Created by ___FULLUSERNAME___ on ___DATE___.
+//  ___COPYRIGHT___
 //
 
 import Foundation
