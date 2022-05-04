@@ -1,4 +1,4 @@
-DIR=~/Library/Developer/Xcode/Templates
+DIR=~/Library/Developer/Xcode/Templates/SPHTemplates
 GITREPO=git@github.com:Achsuthan/iOS_Project_template.git
 
 cloneRepos() {
