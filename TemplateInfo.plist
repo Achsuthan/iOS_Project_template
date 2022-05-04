@@ -25,5 +25,40 @@
 			<string>Module Name</string>
 		</dict>
 	</array>
+
+	<key>Nodes</key>
+                    <array>
+                        <string>ViewController.swift:comments</string>
+                        <string>ViewController.swift:imports:importCocoa</string>
+                        <string>ViewController.swift:implementation(___FILEBASENAME___: UIViewController)</string>
+                        <string>ViewController.swift:implementation:methods:viewDidLoad(override func viewDidLoad(\))</string>
+                        <string>ViewController.swift:implementation:methods:viewDidLoad:super</string>
+                        <string>Info.plist:UIMainStoryboardFile</string>
+                        <string>Info.plist:UIApplicationSceneManifest:UISceneStoryboardFile</string>
+                        <string>Some/MainCoordinator.swift</string>
+                        <string>Some/Other/TestClass.swift</string>
+                    </array>
+                    <key>Definitions</key>
+                    <dict>
+                        <key>Some/MainCoordinator.swift</key>
+                        <dict>
+                            <key>Group</key>
+                            <array>
+                                <string>Some</string>
+                            </array>
+                            <key>Path</key>
+                            <string>MainCoordinator.swift</string>
+                        </dict>
+                        <key>Some/Other/TestClass.swift</key>
+                        <dict>
+                            <key>Group</key>
+                            <array>
+                                <string>Some</string>
+                                <string>Other</string>
+                            </array>
+                            <key>Path</key>
+                            <string>TestClass.swift</string>
+                        </dict>
+                    </dict>
 </dict>
 </plist>
