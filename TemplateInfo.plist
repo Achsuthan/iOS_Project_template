@@ -23,10 +23,8 @@
 			<string>text</string>
 			<key>Default</key>
 			<string>Module Name</string>
-		</dict>
-	</array>
 
-	<key>Nodes</key>
+			<key>Nodes</key>
                     <array>
                         <string>ViewController.swift:comments</string>
                         <string>ViewController.swift:imports:importCocoa</string>
@@ -60,5 +58,7 @@
                             <string>TestClass.swift</string>
                         </dict>
                     </dict>
+		</dict>
+	</array>
 </dict>
 </plist>
